@@ -7,7 +7,7 @@ shell = win.Dispatch("WScript.Shell")
 
 
 url = "gmail.com"
-email = "e08726702@gmail.com"
+email = "test.@gmail.com"
 subject = "Scripting"
 content = "Successfully Executed the Script"
 
